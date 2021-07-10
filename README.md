@@ -1,5 +1,5 @@
 # Uses
 
-## You need first run this command npm install
+## You need first run this command `npm install`
 
-### Then you can do this command for run this api npm run dev
+### Then you can do this command for run this api `npm run dev`
